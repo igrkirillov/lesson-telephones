@@ -1,2 +1,2 @@
 # Lesson Telephones
-[![Build status](https://ci.appveyor.com/api/projects/status/kuqmwsms4s0xhst4?svg=true)](https://ci.appveyor.com/project/igrkirillov/lesson-destructuring)
+[![Build status](https://ci.appveyor.com/api/projects/status/35t51ngjqpevniaj?svg=true)](https://ci.appveyor.com/project/igrkirillov/lesson-telephones)
